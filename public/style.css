@@ -1,5 +1,5 @@
 .post{
-    height: 150px;
+    height: auto;
     width: 300px;
     padding:5px;
     background-color: cornflowerblue;
@@ -10,11 +10,14 @@
     justify-content: center; /* Centers the items vertically */
     align-items: flex-start;
     padding-left: 20px;
-    line-height: 10px;
+    line-height: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 p{
-    color:rgb(255, 240, 240);
+    color:rgb(0, 0, 0);
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
 }
 h1{
     margin-left: 50px;
