@@ -1,0 +1,16 @@
+.post{
+    height: 100px;
+    width: 300px;
+    padding:5px;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    margin: 5px;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color:rgb(255, 240, 240);
+}
+h1{
+    margin-left: 50px;
+}
